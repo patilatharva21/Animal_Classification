@@ -37,7 +37,7 @@ def load_model():
 
 if page == "🏠 Home":
     st.title("🐾 Animal Classification Project")
-    st.image("input_images/home.jpeg", use_container_width=True)
+    st.image("Files/home.jpeg", use_container_width=True)
 
     st.markdown("""
     ## 🧠 Project Overview
