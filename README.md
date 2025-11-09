@@ -27,7 +27,7 @@ Install my-project with npm
     ```bash
     pip install -r requirements.txt
     ```
-3. Set the paths of GUI files as per your directory structure
+3. Set the paths of files as per your directory structure
 
 4. Run the application:
     ```bash
