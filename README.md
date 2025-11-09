@@ -45,7 +45,7 @@ Install my-project with npm
 ![Result](images/output.png)
 
 ### Classification Result 2
-![Result](images/output.png)
+![Result](images/non_output.png)
 
 
 
