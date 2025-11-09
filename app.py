@@ -16,7 +16,6 @@ MODEL_PATH = "model/best_model.pth"
 
 mean = [0.5200, 0.4986, 0.4165]
 std = [0.2550, 0.2467, 0.2490]
-
 image_transforms = transforms.Compose([
     transforms.Resize((224, 224)),
     transforms.ToTensor(),
