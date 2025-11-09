@@ -32,5 +32,20 @@ Install my-project with npm
 4. Run the application:
     ```bash
     streamlit run app.py
-   
+
+## 🖼️ Project Output
+
+### Home Page
+![Home Page](images/homepage.png)
+
+### Upload and Classify
+![Upload Example](images/input_image.png)
+
+### Classification Result 1
+![Result](images/output.png)
+
+### Classification Result 2
+![Result](images/output.png)
+
+
 
