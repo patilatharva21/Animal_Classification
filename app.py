@@ -95,6 +95,7 @@ elif page == "🐾 Animal Classifier":
                     probs = torch.nn.functional.softmax(output, dim=1)
                     _, predicted = torch.max(output, 1)
                     confidence = probs[0][predicted.item()].item() * 100
+                    print(confidence)
 
                 result_class = CLASSES[predicted.item()] 
 
